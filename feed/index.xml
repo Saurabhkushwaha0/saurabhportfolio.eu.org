@@ -9,8 +9,8 @@
 
 <channel>
 	<title>saurabhportfolio.eu.org</title>
-	<atom:link href="/https://saurabhportfolio.eu.org/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://saurabhportfolio.eu.org/</link>
+	<atom:link href="https://saurabhportfolio.eu.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saurabhportfolio.eu.org/</link>
 	<description>Resume Saurabh</description>
 	<lastBuildDate>Sun, 22 Jan 2023 17:50:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/https://saurabhportfolio.eu.org/wp-content/uploads/2023/01/cropped-20230126_152445-scaled-1-32x32.jpg</url>
+	<url>https://saurabhportfolio.eu.org/wp-content/uploads/2023/01/cropped-20230126_152445-scaled-1-32x32.jpg</url>
 	<title>saurabhportfolio.eu.org</title>
-	<link>/https://saurabhportfolio.eu.org/</link>
+	<link>https://saurabhportfolio.eu.org/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/https://saurabhportfolio.eu.org/2023/01/22/hello-world/</link>
-					<comments>/https://saurabhportfolio.eu.org/2023/01/22/hello-world/#comments</comments>
+		<link>https://saurabhportfolio.eu.org/2023/01/22/hello-world/</link>
+					<comments>https://saurabhportfolio.eu.org/2023/01/22/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[testing]]></dc:creator>
 		<pubDate>Sun, 22 Jan 2023 17:50:46 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://saurabhportfolio.eu.org/?p=1</guid>
+		<guid isPermaLink="false">https://saurabhportfolio.eu.org/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://saurabhportfolio.eu.org/2023/01/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://saurabhportfolio.eu.org/2023/01/22/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
